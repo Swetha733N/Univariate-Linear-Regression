@@ -37,6 +37,7 @@ gp.plot(x,y_pred,color="green")
 gp.show()
 ```
 ## Output
-![image](https://github.com/Swetha733N/Univariate-Linear-Regression/assets/122199934/d40f624a-a240-47d9-9136-144a826a428e)
+![image](https://github.com/Swetha733N/Univariate-Linear-Regression/assets/122199934/60a80500-f5e7-404f-a984-cbcf6537a4da)
+
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
