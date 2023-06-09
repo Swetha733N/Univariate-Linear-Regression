@@ -38,7 +38,5 @@ gp.show()
 ```
 ## Output
 ![image](https://github.com/Swetha733N/Univariate-Linear-Regression/assets/122199934/d40f624a-a240-47d9-9136-144a826a428e)
-
-
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
